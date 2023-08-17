@@ -17,14 +17,14 @@ const Hero = () => {
           </p>
           <Typed
             className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
-            strings={["BTB", "SASS", "BTC"]}
+            strings={["BTB", "SAAS", "BTC"]}
             typeSpeed={120}
             backSpeed={140}
             loop
           />
         </div>
         <p className="md:text-2xl px-[15px] text-xl font-bold text-gray-500">
-          Monitor your data analytics to increase revenue for BTC, BTB & SASS
+          Monitor your data analytics to increase revenue for BTC, BTB & SAAS
           platforms
         </p>
         <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
